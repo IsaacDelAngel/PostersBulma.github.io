@@ -1,0 +1,12 @@
+{
+    "name": "isaac/ventadeposters",
+    "description": "mi negocio web",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Isaac del Angel",
+            "email": "juanitokamykaze240@gmail.com"
+        }
+    ],
+    "require": {}
+}
